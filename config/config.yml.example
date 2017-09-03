@@ -1,0 +1,11 @@
+# Bot client ID
+client_id: 1234567890
+
+# Bot token
+token: 'abc123'
+
+# Channel where users will give their trivia answers
+trivia_channel: 12345
+
+# Channel where the answers will be redirected for review by the trivia master
+review_channel: 23456
